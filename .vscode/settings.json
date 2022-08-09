@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "istream": "cpp",
+        "cwchar": "cpp",
+        "vector": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
